@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(178, 209, 199);
+}
+
+.divform{
+    margin-top: 20px;
+    background-color: rgb(166, 166, 187);
+    width: 400px;
+    margin: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: double;
+
+}
+.form-label{
+    margin-left: 10px;
+    font-size: 23px;
+}
+
+.LoginText{
+    text-align: center;
+    background-color: blueviolet;
+    margin-bottom: 30px;
+    border-style:groove;
+    border-color: blue;
+}
+.btn{
+    text-align: center;
+    margin-left: 25%;
+    width: 200px;
+}

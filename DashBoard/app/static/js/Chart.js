@@ -22,7 +22,7 @@ const ctx1 = document.getElementById('myChart1');
   const ctx2 = document.getElementById('myChart2');
 
   new Chart(ctx2, {
-    type: 'bar',
+    type: 'line',
     data: {
       labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
       datasets: [{
@@ -64,7 +64,7 @@ const ctx1 = document.getElementById('myChart1');
   const ctx4 = document.getElementById('myChart4');
 
   new Chart(ctx4, {
-    type: 'bar',
+    type: 'doughnut',
     data: {
       labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
       datasets: [{
