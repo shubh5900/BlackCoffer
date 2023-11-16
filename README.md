@@ -1,7 +1,8 @@
 # BlackCoffer
 
 1. bootstrap
-2. python
-3. Html
-4. chart.js
-5. 
+2. Django
+3. python
+4. Html
+5. CSS
+6. chart.js
